@@ -1,4 +1,4 @@
-## Put comments here that give an overall description of what your
+## Caching the inverse of a Matrix
 ## functions do
 
 ## set the value of the matrix
